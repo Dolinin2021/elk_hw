@@ -15,7 +15,7 @@
 
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/d1274d52-96ab-469c-bfb4-9976918dff81" />
 
-## Задание 4. Filebeat.
+## Задание 4. Filebeat
 Скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat:
 
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/55ef4cd4-30c8-4908-9826-cecce536e15d" />
